@@ -26,7 +26,7 @@ Szkolenie Indywidualne tester manualny 19.02.2023
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## My mind map for Bonito.pl
+## MY MIND MAP FOR BONITO.PL
 * [Mind map](https://drive.google.com/file/d/1lnlN9_TSyn7Yh3ZXCqpMt89gFMl8QUIl/view?usp=sharing)
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR Bonito.pl
