@@ -32,7 +32,7 @@ Szkolenie Indywidualne tester manualny 19.02.2023
 ## MY TEST CASE EXAMPLES FOR Bonito.pl
 * [Test cases](https://drive.google.com/file/d/16dmoej6JqKIiDb0Yqm6ZQpGs1RRsz7Hg/view?usp=sharing)
 ## MY BUGS
-## MY BUGS FOR 
+## MY BUGS FOR BONITO.PL
 * [Użytkownik zarejestrował konto używając znak diakrytyczny w loginie](https://docs.google.com/document/d/1dhdEdPUyKF_zBbGBON1X5romtw2fsSya/edit?usp=sharing&ouid=102690967650596517414&rtpof=true&sd=true)
 * [Użytkownik zarejestrował konto używając znak biały w loginie](https://docs.google.com/document/d/1bwyPvm529GxDKgx8v-rWS3bCffchABEM/edit?usp=sharing&ouid=102690967650596517414&rtpof=true&sd=true)
 * [Użytkownik zarejestrował konto używając znak specjalny w loginie](https://docs.google.com/document/d/14J9QN2-JrD0zv68k1TGXwOJgXS9FX8Pq/edit?usp=sharing&ouid=102690967650596517414&rtpof=true&sd=true)
